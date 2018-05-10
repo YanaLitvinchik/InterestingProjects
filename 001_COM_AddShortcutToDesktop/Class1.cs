@@ -1,6 +1,6 @@
 using System;
 using IWshRuntimeLibrary;
-
+//
 namespace AddShortcutToDesktop
 {
 	class ShortcutToDesktop
